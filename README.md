@@ -1,11 +1,11 @@
 # Splunk Query Automation
 
-This script utilizes the Splunk Python SDK to automate Splunk search queries and perform day-to-day tasks. It connects to a Splunk service, executes a search query, parses the XML output, and displays the results.
+This script utilizes the Splunk Query Automation to automate Splunk search queries and perform day-to-day tasks. It connects to a Splunk service, executes a search query, parses the XML output, and displays the results.
 
 ## Prerequisites
 
 - Python 3.x
-- Splunk Python SDK (`splunklib`)
+- Splunk Query Automation (`splunklib`)
 
 ## Installation
 
@@ -46,4 +46,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, modify, and use this script to automate Splunk search queries and streamline your day-to-day tasks.
 
-For more information on using the Splunk Python SDK, refer to the official [Splunk SDK for Python documentation](https://docs.splunk.com/DocumentationStatic/PythonSDK/1.6.14/index.html).
+For more information on using the Splunk Query Automation, refer to the official [Splunk SDK for Python documentation](https://docs.splunk.com/DocumentationStatic/PythonSDK/1.6.14/index.html).
