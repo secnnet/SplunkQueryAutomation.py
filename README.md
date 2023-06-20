@@ -1,4 +1,4 @@
-# Splunk Python SDK Script
+# Splunk Query Automation
 
 This script utilizes the Splunk Python SDK to automate Splunk search queries and perform day-to-day tasks. It connects to a Splunk service, executes a search query, parses the XML output, and displays the results.
 
